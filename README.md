@@ -1,6 +1,6 @@
 # ClusterTruck 简体中文补丁
 
-给 Landfall Games 的 **ClusterTruck（卡车集群）** 做的高质量简体中文化补丁。
+给 Landfall Games 的 **ClusterTruck（货不单行）** 做的高质量简体中文化补丁。
 
 - 游戏版本：Steam 版 1.1（Unity 5.3.4f1）
 - 覆盖范围：主菜单、能力商店、排行榜、设置、暂停、结算、成就提示、内置关卡编辑器（含完整帮助文档）
